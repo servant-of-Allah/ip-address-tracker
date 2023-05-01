@@ -9,10 +9,8 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://servant-of-allah.github.io/ip-address-tracker/)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-ip-address-tracker-web-app-using-react-CdKIxViB8d)
+- Live Site URL: [live](https://servant-of-allah.github.io/ip-address-tracker/)
 
 ## My process
 
